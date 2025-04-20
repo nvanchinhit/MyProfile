@@ -1,0 +1,227 @@
+{
+  "banner": [
+    {
+      "id": 1,
+      "welcomeText": "Welcome to My Portfolio",
+      "name": "Van Chinh",
+      "description": "I build web applications that help businesses grow and reach their goals. Let's work together to create the digital presence you need to succeed.",
+      "avatar": "https://i.imgur.com/2zFlPFZ.jpeg",
+      "yearsExperience": 10,
+      "totalProjects": 50,
+      "resumeLink": "/public/Van-Chinh.pdf"
+    }
+  ],
+  "about": [
+    {
+      "id": 1,
+      "summary": "I'm a passionate web developer with a strong foundation in both frontend and backend technologies. With several years of experience in the field, I've worked on a variety of projects from small business websites to complex web applications.",
+      "skills": [
+        {
+          "icon": "FaCode",
+          "title": "Frontend Development",
+          "description": "Expert in building responsive, accessible, and performant user interfaces using React, TypeScript, and modern CSS."
+        },
+        {
+          "icon": "FaLaptopCode",
+          "title": "Make Money Online",
+          "description": "Providing social network accounts and services such as facebook, tiktok, instagram..."
+        },
+        {
+          "icon": "FaChartLine",
+          "title": "Data Analysis",
+          "description": "Data analysis and visualization to help you make informed decisions based on your business data."
+        },
+        {
+          "icon": "FaDesktop",
+          "title": "UI/UX Design",
+          "description": "Combining technical skills with design principles to create intuitive and visually appealing user experiences."
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "type": "Đã Tốt Nghiệp",
+      "iconType": "FaGraduationCap",
+      "title": "Excellent Student",
+      "organization": "Dong Loc High School",
+      "date": "2020-2023",
+      "description": "Graduated with honors and continued on to college.",
+      "color": "primary",
+      "image": "https://indongloi.com/wp-content/uploads/anh-giay-khen-1.jpg.webp"
+    },
+    {
+      "id": 2,
+      "type": "Đã tốt nghiệp",
+      "iconType": "FaGraduationCap",
+      "title": "Good Student",
+      "organization": "FPT Polytechnic",
+      "date": "2023 - Present",
+      "description": "Graduated with a good degree and got a job",
+      "color": "info",
+      "image": "https://image.luatvietnam.vn/uploaded/twebp/images/original/2023/03/28/giay-khen-hoc-sinh-gioi-cap-thanh-pho-1_2803184804.jpg"
+    },
+    {
+      "id": 3,
+      "type": "Đã Hoàn Thành",
+      "iconType": "FaCertificate",
+      "title": "Practice PHP programming skills 1",
+      "organization": "FPT Polytechnic",
+      "date": "June 2024",
+      "description": "Participate in website deployment activities on the school server",
+      "color": "success",
+      "image": "https://i.imgur.com/Iumz9lb.jpeg"
+    },
+    {
+      "id": 4,
+      "type": "Đã Hoàn Thành",
+      "iconType": "FaCertificate",
+      "title": "Outstanding student Spring 2024",
+      "organization": "FPT Polytechnic",
+      "date": "January 2024",
+      "description": "Do well in the lab and assignment exercises and get high marks in the final exam.",
+      "color": "success",
+      "image": "https://i.imgur.com/WJSeEOa.jpeg"
+    },
+    {
+      "id": 5,
+      "type": "Đã Hoàn Thành",
+      "iconType": "FaCertificate",
+      "title": "Outstanding student Fall 2024",
+      "organization": "FPT Polytechnic",
+      "date": "December 2024",
+      "description": "Do well in the lab and assignment exercises and get high marks in the final exam.",
+      "color": "success",
+      "image": "https://i.imgur.com/c4ZonJ8.jpeg"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Xây dựng service chuyên nghiệp với nodejs mongodb expressjs",
+      "subtitle": "Sinh viên ôn tập lại toàn bộ kiến thức cơ bẩn đã được học ở trên trường thông qua dự án Luyện tập kỹ năng lập trình PHP",
+      "description": "Apply the knowledge learned from WEB503 and WEB502 to build real-life web services, with the goal of gaining solid knowledge to be ready to participate in level 2 and 3 practical projects and serve well for the graduation project.",
+      "longDescription": "<p>Nền tảng được thiết kế với khả năng mở rộng, giúp xử lý lưu lượng truy cập và danh mục sản phẩm ngày càng lớn khi doanh nghiệp phát triển. Trang quản trị cung cấp các công cụ phân tích và quản lý kho hàng toàn diện.</p><h4>Các tính năng chính:</h4><ul><li>Danh mục sản phẩm linh hoạt với bộ lọc nâng cao</li><li>Xác thực người dùng và quản lý hồ sơ</li><li>Giỏ hàng với lưu trữ dữ liệu bền vững</li><li>Thanh toán an toàn với Stripe</li><li>Theo dõi đơn hàng và lịch sử giao dịch</li><li>Bảng điều khiển quản trị để quản lý kho hàng và đơn hàng</li><li>Công cụ phân tích và báo cáo</li></ul><h4>Triển khai kỹ thuật:</h4><p>Backend: Hệ thống được phát triển bằng Node.js kết hợp với Express.js, giúp xây dựng API nhanh chóng và hiệu quả. Express hỗ trợ middleware linh hoạt, giúp xử lý yêu cầu HTTP, xác thực, và thao tác dữ liệu dễ dàng.</p><p>Tương thích trên mọi thiết bị: Ứng dụng được thiết kế responsive, đảm bảo trải nghiệm tốt trên cả điện thoại, máy tính bảng và desktop.</p>",
+      "image": "https://training.iostream.co/static/subjects/lap-trinh-back-end-voi-nodejs-va-mongodb.png",
+      "screenshots": [
+        "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1546146830-2cca9512c68e?auto=format&fit=crop&w=600&q=80"
+      ],
+      "tags": [
+        "Node.js",
+        "Typescript"
+      ],
+      "links": {
+        "demo": "https://nvanchinhit.id.vn/",
+        "github": "https://github.com/nvanchinhit"
+      },
+      "duration": "Tháng 1 Năm 2025",
+      "team": "Solo",
+      "role": "Frontend Stack Developer",
+      "challenges": "Optimize API performance with Node.js, handle multiple concurrent requests, and manage data efficiently with MongoDB."
+    },
+    {
+      "id": 2,
+      "title": "Luyện tập kỹ năng lập trình PHP 1",
+      "subtitle": "Sinh viên ôn tập lại toàn bộ kiến thức cơ bẩn đã được học ở trên trường thông qua dự án Luyện tập kỹ năng lập trình PHP",
+      "description": "Students review all the basic knowledge learned in school through the PHP Programming Skills Practice project.",
+      "longDescription": "<p>Dự án này tập trung vào việc ôn tập và áp dụng kiến thức PHP cơ bản trong một dự án thực tế. Sinh viên được yêu cầu xây dựng một ứng dụng web đơn giản sử dụng PHP và MySQL.</p><h4>Kỹ năng được rèn luyện:</h4><ul><li>Thiết kế và triển khai cơ sở dữ liệu</li><li>Xây dựng hệ thống CRUD đầy đủ</li><li>Xác thực người dùng và phân quyền</li><li>Xử lý form và validate dữ liệu</li><li>Tối ưu hiệu suất ứng dụng</li></ul>",
+      "image": "https://i.imgur.com/Iumz9lb.jpeg",
+      "screenshots": [
+        "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1546146830-2cca9512c68e?auto=format&fit=crop&w=600&q=80"
+      ],
+      "tags": [
+        "PHP",
+        "MYSQL"
+      ],
+      "links": {
+        "demo": "https://nvanchinhit.id.vn/",
+        "github": "https://github.com/nvanchinhit"
+      },
+      "duration": "Tháng 5 Năm 2024",
+      "team": "Solo",
+      "role": "Full Stack Developer",
+      "challenges": "Building scalable database structures and implementing secure authentication systems."
+    },
+    {
+      "id": 3,
+      "title": "Rèn luyện kỹ năng Xây dựng trang web",
+      "subtitle": "Rèn luyện kỹ năng xây dựng trang web với các công nghệ front-end cơ bản",
+      "description": "Custom Products by Syllabus",
+      "longDescription": "<p>Dự án này tập trung vào việc phát triển kỹ năng xây dựng giao diện web sử dụng các công nghệ front-end cơ bản như HTML, CSS và JavaScript.</p><h4>Mục tiêu chính:</h4><ul><li>Nắm vững cấu trúc HTML5 semantic</li><li>Thiết kế responsive với CSS modern</li><li>Tương tác người dùng với JavaScript</li><li>Tối ưu hiệu suất trang web</li></ul>",
+      "image": "https://i.imgur.com/p86h4PA.jpeg",
+      "screenshots": [
+        "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1546146830-2cca9512c68e?auto=format&fit=crop&w=600&q=80"
+      ],
+      "tags": [
+        "Html",
+        "CSS",
+        "JavaScript"
+      ],
+      "links": {
+        "demo": "https://nvanchinhit.id.vn/",
+        "github": "https://github.com/nvanchinhit"
+      },
+      "duration": "Tháng 3 Năm 2024",
+      "team": "Solo",
+      "role": "Frontend Developer",
+      "challenges": "Creating pixel-perfect designs and ensuring cross-browser compatibility."
+    },
+    {
+      "id": 4,
+      "title": "Luyện tập kỹ năng lập trình PHP 1",
+      "subtitle": "Dự án PHP cơ bản theo chương trình giảng dạy",
+      "description": "Custom Products by Syllabus",
+      "longDescription": "<p>Dự án này là một phần của chương trình học PHP, tập trung vào việc xây dựng các chức năng cơ bản của một ứng dụng web.</p><h4>Nội dung chính:</h4><ul><li>Kết nối và truy vấn cơ sở dữ liệu</li><li>Xử lý phiên và cookie</li><li>Tạo giao diện quản trị đơn giản</li><li>Xử lý tệp tin và hình ảnh</li></ul>",
+      "image": "https://i.imgur.com/ODXgZAM.jpeg",
+      "screenshots": [
+        "https://images.unsplash.com/photo-1563013544-824ae1b704d3?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1546146830-2cca9512c68e?auto=format&fit=crop&w=600&q=80"
+      ],
+      "tags": [
+        "PHP1"
+      ],
+      "links": {
+        "demo": "https://nvanchinhit.id.vn/",
+        "github": "https://github.com/nvanchinhit"
+      },
+      "duration": "Tháng 2 Năm 2024",
+      "team": "Solo",
+      "role": "PHP Developer",
+      "challenges": "Implementing secure data handling practices and optimizing database queries."
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Chính Văn",
+      "email": "nguyenvanchinh200506@gmail.com",
+      "phone": "0335942740",
+      "subject": "Cơ hội việc làm",
+      "message": "abc"
+    },
+    {
+      "id": 2,
+      "name": "Chính Văn",
+      "email": "nguyenvanchinh200506@gmail.com",
+      "phone": "0335942740",
+      "subject": "Cơ hội việc làm",
+      "message": "aaaaa"
+    },
+    {
+      "id": 3,
+      "name": "Chính Văn",
+      "email": "nguyenvanchinh200506@gmail.com",
+      "phone": "0335942740",
+      "subject": "Hợp tác dự án",
+      "message": "oke done"
+    }
+  ]
+}

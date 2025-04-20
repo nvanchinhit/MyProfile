@@ -25,6 +25,8 @@ export interface Project {
   image: string;
   tags: string[];
   links: ProjectLinks;
+  duration: string; // Thêm vào
+  role: string; 
 }
 
 export interface ProjectDetail extends Project {
